@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://github.com/ykexc">
-  <img src = 'http://qcloudcos.xunjiepdf.com/xunjievideo/temp/202306132001/81a7913132d14379a0c9c5abc302f76d/video_230613_195916.gif' width="310"/>
+  <img src = 'https://i.imgur.com/72fhe2y.gif' width="310"/>
 </a>
 
 <br>
