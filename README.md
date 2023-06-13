@@ -13,7 +13,7 @@
 
 <br>
 
-<a href="https://tonngw.com">
+<a href="https://github.com/ykexc">
   <img src="https://img.shields.io/badge/Author-ykexc-pink" />
 </a>
 
