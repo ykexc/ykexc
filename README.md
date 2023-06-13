@@ -7,8 +7,6 @@
   <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ykexc&show_icons=true&hide_title=true&theme=merko#gh-dark-mode-only"/>
 </a>
 
-<b>Hi, I'm ykexc👋</b>
-
 <a href="https://github.com/ykexc">
   <img src = 'http://qcloudcos.xunjiepdf.com/xunjievideo/temp/202306131902/96fca0022c6f43ed9d0932d2d0a9f106/video_230613_194700.gif' width="310"/>
 </a>
