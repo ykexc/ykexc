@@ -10,7 +10,7 @@
 <b>Hi, I'm ykexc👋</b>
 
 <a href="https://github.com/ykexc">
-  <img src = 'https://cdn.acwing.com/media/article/image/2022/07/12/52520_f251725801-typing-github.gif' width="310"/>
+  <img src = 'http://qcloudcos.xunjiepdf.com/xunjievideo/temp/202306131902/96fca0022c6f43ed9d0932d2d0a9f106/video_230613_194700.gif' width="310"/>
 </a>
 
 <br>
