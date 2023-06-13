@@ -7,7 +7,7 @@
   <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ykexc&show_icons=true&hide_title=true&theme=merko#gh-dark-mode-only"/>
 </a>
 
-<b>Hi, I'm tonngw👋</b>
+<b>Hi, I'm ykexc👋</b>
 
 <a href="https://github.com/ykexc">
   <img src = 'https://cdn.acwing.com/media/article/image/2022/07/12/52520_f251725801-typing-github.gif' width="310"/>
